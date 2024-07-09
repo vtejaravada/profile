@@ -322,14 +322,12 @@
                 {
                     "id": 8,
                     "projectName": "Entertainment",
-                    "proImg": "https://i.ibb.co/KN98DVW/Entertainment1.jpg",
+                    "proImg": "",
                     "tagline": "Entertainment Movies A Modern React Application",
                     "Title": "Entertainment | A Modern Movies React Application",
                     "Link": "https://entertainmentreact.netlify.app",
                     "images": [
-                        "https://i.ibb.co/gm78sjQ/Entertainment2.jpg",
-                        "https://i.ibb.co/KN98DVW/Entertainment1.jpg",
-                        "https://i.ibb.co/wWfxrKP/Entertainment3.jpg"
+                        
                        
                     ],
                     "sub_Content1": "A Modern Movies React Application",
