@@ -603,6 +603,21 @@
                     "para8": "The Coffee Project showcases my ability to create responsive, visually appealing websites that offer a great user experience. It reflects my skills in HTML and CSS, as well as my attention to detail and commitment to delivering high-quality web design. This project not only highlights my technical capabilities but also my passion for creating engaging and interactive digital experiences."
                 }
             ]
+        },
+        {
+            "id": 6,
+            "pro_name": "Photoshop",
+            "img": "https://media.licdn.com/dms/image/D4E12AQFGtCLzryEsvQ/article-cover_image-shrink_720_1280/0/1683961037831?e=2147483647&v=beta&t=ZCCnGgCZCv_v08kv8-JhZ0gnYdyq6aOi3NOBT8HEgDY",
+        },
+        {
+            "id": 7,
+            "pro_name": "Figma",
+            "img": "https://media.licdn.com/dms/image/D4E12AQFGtCLzryEsvQ/article-cover_image-shrink_720_1280/0/1683961037831?e=2147483647&v=beta&t=ZCCnGgCZCv_v08kv8-JhZ0gnYdyq6aOi3NOBT8HEgDY",
+        },
+        {
+            "id": 8,
+            "pro_name": "Animation",
+            "img": "https://media.licdn.com/dms/image/D4E12AQFGtCLzryEsvQ/article-cover_image-shrink_720_1280/0/1683961037831?e=2147483647&v=beta&t=ZCCnGgCZCv_v08kv8-JhZ0gnYdyq6aOi3NOBT8HEgDY",
         }
     ],
     "education_Data": [
